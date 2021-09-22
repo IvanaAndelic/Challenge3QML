@@ -1,2 +1,2 @@
 # Challenge3QML
-Challenge3QML, subtask 3: REST API
+Movie Browser, subtask 3: REST API
